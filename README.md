@@ -7,6 +7,7 @@
 
 > **Note:**  
 > Currently, the main feature is the robust `ButterflyMask` class, which provides strong, layered obfuscation.
+> 
 > The core module are planned for future releases which include:
 > - The core `butterfly encoding` algorithm for advanced, layered reversible obfuscation.
 > - `Butterfly encrypting` for more secure, cryptography-inspired protection.
