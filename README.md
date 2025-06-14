@@ -6,13 +6,11 @@
 > There is no technical reason for this name. I am a huge fan of animated series, and one of my favorites is "Star vs. the Forces of Evil." The main character, Star Butterfly, inspired the name of this project. She is one of my favorite characters in the series, along with Marco and Hekapoo. This project is named in her honor.
 
 > **Note:**  
-> The core module are planned for future releases.  
-> Future releases will also include:
->
+> Currently, the main feature is the robust `ButterflyMask` class, which provides strong, layered obfuscation.
+> The core module are planned for future releases which include:
 > - The core `butterfly encoding` algorithm for advanced, layered reversible obfuscation.
 > - `Butterfly encrypting` for more secure, cryptography-inspired protection.
 > - `Butterfly hashing` for one-way data transformation (e.g., password verification).
->   Currently, the main feature is the robust `ButterflyMask` class, which provides strong, layered obfuscation.
 
 ---
 
